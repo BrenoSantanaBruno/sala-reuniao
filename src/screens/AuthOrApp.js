@@ -4,7 +4,7 @@ import {
     ActivityIndicator,
     StyleSheet
 } from 'react-native'
-import { CommonActions } from '@react-navigation/native';
+import { CommonActions } from 'react-native-screens';
 
 import axios from 'axios'
 import AsyncStorage from '@react-native-async-storage/async-storage'

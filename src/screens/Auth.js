@@ -10,7 +10,7 @@ import {
 
 import axios from 'axios'
 import AsyncStorage from '@react-native-async-storage/async-storage'
-import { CommonActions } from '@react-navigation/native';
+import { CommonActions } from 'react-native-screens';
 
 import backgroundImage from '../../assets/imgs/login.jpg'
 import commonStyles from '../commonStyles'

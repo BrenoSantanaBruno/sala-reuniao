@@ -1,7 +1,7 @@
 import React from 'react'
 import { Platform, ScrollView, View, Text, StyleSheet, TouchableOpacity } from 'react-native'
 import { DrawerContentScrollView, DrawerItemList } from '@react-navigation/drawer'
-import { CommonActions } from '@react-navigation/native';
+import { CommonActions } from 'react-native-screens';
 import { Gravatar } from 'react-native-gravatar'
 import commonStyles from '../commonStyles'
 
